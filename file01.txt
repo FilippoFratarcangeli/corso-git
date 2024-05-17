@@ -1,8 +1,0 @@
-hello
-new line from dev
-
-from forked repo
-
-new line from b1
-
-line from b2
