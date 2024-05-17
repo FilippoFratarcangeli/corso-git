@@ -1,2 +1,6 @@
 hello
+
 hello from new dev branch
+
+hello from dev branch
+hello from master branch
